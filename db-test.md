@@ -4,7 +4,7 @@
 
 {{DATAROW:alpha}}
 
-{{DATA:NAME}}外部ページの商品データ１{{/DATA}}
+{{DATA:NAME}}alpha{{/DATA}}
 
 {{DATA:PRICE}}2,980{{/DATA}}
 
@@ -15,7 +15,7 @@
 
 {{DATAROW:beta}}
 
-{{DATA:NAME}}外部ページの商品データ２{{/DATA}}
+{{DATA:NAME}}beta{{/DATA}}
 
 {{DATA:PRICE}}5,800{{/DATA}}
 
