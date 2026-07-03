@@ -1,5 +1,5 @@
-## データ定義
+## Data Definition
 
-{{DATA:BOOK}}坊ちゃん{{/DATA}}
+{{DATA:BOOK}}Frankenstein{{/DATA}}
 
-{{DATA:AUTHOR}}夏目漱石{{/DATA}}
+{{DATA:AUTHOR}}Mary Shelley{{/DATA}}
